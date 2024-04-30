@@ -2,7 +2,6 @@ pyrogram==2.0.80
 TgCrypto
 motor
 dnspython
-ffmpeg
 hachoir
 Pillow
 aiohttp
